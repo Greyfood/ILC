@@ -1,2 +1,2 @@
 # ILC
-Inteligent logistic Centerfully automated
+Inteligent logistic Center fully automated
